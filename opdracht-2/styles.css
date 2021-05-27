@@ -20,4 +20,21 @@
     flex-basis: 25%;
     list-style: none;
 }
+
+.four {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form > label {
+    display: flex;
+    flex-direction: column;
+}
 /* Schrijf hier  jouw CSS! */

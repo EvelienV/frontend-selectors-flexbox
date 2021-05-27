@@ -37,4 +37,14 @@ form > label {
     display: flex;
     flex-direction: column;
 }
+
+.five {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article {
+    flex-basis: 360px;
+    flex-shrink: 0;
+}
 /* Schrijf hier  jouw CSS! */

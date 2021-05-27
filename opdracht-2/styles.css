@@ -46,5 +46,6 @@ form > label {
 article {
     flex-basis: 360px;
     flex-shrink: 0;
+    flex-grow: 1;
 }
 /* Schrijf hier  jouw CSS! */

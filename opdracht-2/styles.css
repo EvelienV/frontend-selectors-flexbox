@@ -9,8 +9,15 @@
     flex-basis: 400px;
 }
 
-.two {
+.two,.three {
     display: flex;
     justify-content: space-between;
+}
+
+.three > ul {
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 25%;
+    list-style: none;
 }
 /* Schrijf hier  jouw CSS! */
